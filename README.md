@@ -3,19 +3,19 @@
 
 
 ![Mia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miaurbanno&show_icons=true&theme=shadow_green)
+![Mia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miaurbanno&show_icons=true&theme=shadow_green)
 
 
 
-- 🔭 I’m currently working on ...
+- 🦊 Who Am I?
+    - Brazilian, 19 years old, BackEnd student.
+    - she/her
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 🦊 Who Am I? 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Yess, I'm a potterhead! Haha joking, I'm really a bookworm, love music and love to eat as well.
+
+- ⚡ Fun fact:
+    - Yess, I'm a potterhead! Haha joking, I'm really a bookworm, love music and love to eat as well.
     - One of my favourites songs is "Carry On My Wayward Son" by Kansas (I'm also a Supernatural addicted, how did you guess it?).
+    - I have a cat, it's name is Sofia🐈
     - By the way, I'm from Slytherin's house 🐍💚:
 
 <div style="display: inline_block"><br>
