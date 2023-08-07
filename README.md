@@ -14,17 +14,13 @@
 
 ![Mia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miaurbanno&show_icons=true&theme=shadow_green)
 
-
-
 # 
 
 <div align=center>
 
 <br>
 </br>
-
-<img width="450" src="https://github.com/miaurbanno/miaurbanno/assets/67329795/be217c32-70a7-4a10-82bb-be69acdf0d63">
-
+<img src="https://github.com/miaurbanno/miaurbanno/assets/67329795/e2439bf3-8ea1-478b-b2b7-266cff05c69d">
 </div>
 
 
