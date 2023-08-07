@@ -1,6 +1,8 @@
-### Hii! It's me, Mia!
+# Hii! It's me, Mia!
 
-<!--
+![Mia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miaurbanno&show_icons=true&theme=shadow_green)
+
+
 **miaurbanno/miaurbanno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: eee
--->
+
+#
