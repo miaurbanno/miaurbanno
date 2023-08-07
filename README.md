@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact:
     - Yess, I'm a potterhead! Haha joking, I'm really a bookworm, love music and love to eat as well.
-    - One of my favourites songs is "Carry On My Wayward Son" by Kansas (I'm also a Supernatural addicted, how did you guess?).
+    - One of my favourite songs is "Carry On My Wayward Son" by Kansas (I'm also a Supernatural addicted, how did you guess?).
     - I have a cat, it's name is Sofia🐈
     - By the way, I'm from Slytherin's house 🐍💚
 
