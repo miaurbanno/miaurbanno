@@ -34,7 +34,9 @@
   
  <img align="center" alt="Mia-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
- <img align="center" alt="Rafa-Python" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Mia-Python" height="62" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+ <img align="center" alt="Mia-Python" height="55" width="55" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
 
 </div>
 
