@@ -11,7 +11,7 @@
     - I have a cat, it's name is Sofia🐈
     - By the way, I'm from Slytherin's house 🐍💚
 
-<div style="display: inline_block"><br>
+<div align="center">
 <a href="https://github.com/develany"> 
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=miaurbanno&show_icons=true&theme=shadow_green"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaurbanno&layout=compact&langs_count=7&theme=shadow_green"/>
