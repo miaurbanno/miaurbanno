@@ -31,6 +31,7 @@
 <div style="display: inline_block"><br>
   
 ## Currently learning
+
  <img align="center" alt="Mia-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
  <img align="center" alt="Mia-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -43,4 +44,16 @@
 
 </div>
 
+
 #
+
+<br>
+</br>
+
+<div align=center>
+    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/miaurbanno">
+    <img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/miaurbanno/">
+    
+##### Thanks for the visit, see ya :)
+
+</div>
