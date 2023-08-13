@@ -13,8 +13,8 @@
 
 <div align="center">
 <a href="https://github.com/miaurbanno"> 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=miaurbanno&show_icons=true&theme=shadow_green"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaurbanno&layout=compact&langs_count=7&theme=shadow_green"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=miaurbanno&show_icons=true&count_private=true&theme=shadow_green"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaurbanno&count_private=true&layout=compact&langs_count=7&theme=shadow_green"/>
 </div>
 
 # 
