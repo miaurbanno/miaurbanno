@@ -51,8 +51,8 @@
 </br>
 
 <div align=center>
-    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/miaurbanno">
-    <img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/miaurbanno/">
+    <a href="https://twitter.com/miaurbanno"> 
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black">
     
 ##### Thanks for the visit, see ya :)
 
