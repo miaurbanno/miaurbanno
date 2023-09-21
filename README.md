@@ -52,9 +52,9 @@
 
 <div align=center>
     <a href="https://twitter.com/miaurbanno"> 
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black">
+    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=00FF00">
     <a href="https://www.linkedin.com/in/mia-urbano-de-ara%C3%BAjo-77073a251/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF00">
     
 ##### Thanks for the visit, see ya :)
 
