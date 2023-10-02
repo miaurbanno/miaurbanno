@@ -1,7 +1,11 @@
+<img src="https://github.com/miaurbanno/miaurbanno/assets/67329795/b6e4df78-2c64-4c1c-983b-938095107270">
+
+<br></br>
 # Hii! It's me, Mia!
 
 - 🦊 About me:
-    - Brazilian, 19 years old, BackEnd student.
+    - Brazilian, 19 years old, BackEnd developer.
+    - I graduated in Games Programming Technician at ETEC - Aristóteles Ferreira, alongside my high school.
     - she/her
 
 
@@ -9,7 +13,6 @@
     - Yess, I'm a potterhead! Haha joking, I'm really a bookworm, love music and love to eat as well.
     - One of my favourite songs is "Carry On My Wayward Son" by Kansas (I'm also a Supernatural addicted, how did you guess?).
     - I have a cat, it's name is Sofia🐈
-    - By the way, I'm from Slytherin's house 🐍💚
 
 <div align="center">
 <a href="https://github.com/miaurbanno"> 
@@ -59,3 +62,4 @@
 ##### Thanks for the visit, see ya :)
 
 </div>
+<img src="https://github.com/miaurbanno/miaurbanno/assets/67329795/0ad9d4e8-4f0c-4e36-9a5a-ace46338e029">
