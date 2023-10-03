@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=00FF00">
     <a href="https://www.linkedin.com/in/mia-urbano-de-ara%C3%BAjo-77073a251/">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF00">
-    <a href="miaurbanno@gmail.com">
+    <a href="mailto:miaurbanno@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=00FF00">
     
 ##### Thanks for the visit, see ya :)
