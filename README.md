@@ -31,22 +31,18 @@
 
 
 
-<div style="display: inline_block"><br>
-  
+<br>
+
 ## Currently learning
+</br>
 
- <img align="center" alt="Mia-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
- <img align="center" alt="Mia-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
- <img align="center" alt="Mia-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,nodejs,express&theme=dark)](https://skillicons.dev)
 
- <img align="center" alt="Mia-Python" height="62" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<br></br>
 
- <img align="center" alt="Mia-Python" height="55" width="55" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+## Experience with
 
-</div>
-
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,ai,ae,au,ps,pr,blender&theme=dark)](https://skillicons.dev)
 
 #
 
