@@ -60,4 +60,3 @@
 ##### Thanks for the visit, see ya :)
 
 </div>
-<img src="https://github.com/miaurbanno/miaurbanno/assets/67329795/613e1509-482f-4b90-96bf-4a129f8e4cd9">
