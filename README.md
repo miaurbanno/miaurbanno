@@ -36,7 +36,7 @@
 ## Currently learning
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,nodejs,express&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,nodejs,express,postgresql&theme=dark)](https://skillicons.dev)
 
 <br></br>
 
