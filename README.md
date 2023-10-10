@@ -1,4 +1,4 @@
-
+<img width=1000 src="https://github.com/miaurbanno/miaurbanno/assets/67329795/61983a70-9f03-4fd1-9a92-8ec03619dcd7">
 
 <br></br>
 # Hii! It's me, Mia!
@@ -18,12 +18,13 @@
 <a href="https://github.com/miaurbanno"> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miaurbanno&show_icons=true&count_private=true&theme=shadow_green"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaurbanno&count_private=true&layout=compact&langs_count=7&theme=shadow_green"/>
+</a>
 </div>
 
 # 
 
 <br></br>
-<img align="right" width=400 height=400 src="https://github.com/miaurbanno/miaurbanno/assets/67329795/0d8b5b6b-37fe-41de-96c0-3b1e7785a24f">
+<img align="right" width=350 height=350 src="https://github.com/miaurbanno/miaurbanno/assets/67329795/0d8b5b6b-37fe-41de-96c0-3b1e7785a24f">
 
 &nbsp;
 
@@ -95,3 +96,8 @@
 ##### Thanks for the visit, see ya :)
 
 </div>
+
+&nbsp;
+
+<img width=1000 src="https://github.com/miaurbanno/miaurbanno/assets/67329795/1fe3c847-7901-4b2e-a326-ca648325c25c">
+
