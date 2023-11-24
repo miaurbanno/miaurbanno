@@ -1,53 +1,54 @@
 <img width=1000 src="https://github.com/miaurbanno/miaurbanno/assets/67329795/61983a70-9f03-4fd1-9a92-8ec03619dcd7">
 
-<br></br>
+<br><br>
+
 # Hii! It's me, Mia!
 
-- 🦊 About me:
-    - Brazilian, 19 years old, BackEnd developer.
-    - I graduated in Games Programming Technician at ETEC - Aristóteles Ferreira, alongside my high school.
-    - she/her
+<br><br>
 
+<img align="right" width=350 height=350 src="images/image3.jpeg">
 
-- ⚡ Fun fact:
-    - Yess, I'm a potterhead! Haha joking, I'm really a bookworm, love music and love to eat as well.
-    - One of my favourite songs is "Carry On My Wayward Son" by Kansas (I'm also a Supernatural addicted, how did you guess?).
-    - I have a cat, it's name is Sofia🐈
+<div align="left">
 
-<div align="center">
-<a href="https://github.com/miaurbanno"> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=miaurbanno&show_icons=true&count_private=true&theme=shadow_green"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaurbanno&count_private=true&layout=compact&langs_count=7&theme=shadow_green"/>
-</a>
+<h3>🦊 About me:</h3>
+
+- Brazilian, 19 years old, BackEnd developer.
+- I graduated in Games Programming Technician at ETEC - Aristóteles Ferreira, alongside my high school.
+- she/her
+
+<h3>⚡ Fun fact:</h3>
+
+- Yess, I'm a potterhead! Haha joking, I'm really a bookworm, love music and love to eat as well.
+- One of my favourite songs is "Carry On My Wayward Son" by Kansas (I'm also a Supernatural addicted, how did you guess?).
+- I have a cat, it's name is Sofia🐈
+
 </div>
 
-# 
-
-<br></br>
-<img align="right" width=350 height=350 src="https://github.com/miaurbanno/miaurbanno/assets/67329795/0d8b5b6b-37fe-41de-96c0-3b1e7785a24f">
+<br><br>
 
 &nbsp;
 
-> -
-> -
-```javascript
- “Your work is going to fill a large part of your life,
-  and the only way to be truly satisfied is to do what you
-  believe is great work.
-  And the only way to do great work is to love what you do.”
-
-  - Steve Jobs
-```
-> -
-> -
+#
 
 
-<br></br>
 
-<br>
+<br><br>
+
+<div align="center">
+<a href="https://github.com/miaurbanno"> 
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=miaurbanno&show_icons=true&count_private=true&theme=neon"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaurbanno&count_private=true&layout=compact&langs_count=7&theme=neon"/>
+</a>
+</div>
+
+
+<br><br>
+
+&nbsp;
 
 ## Currently learning
-</br>
+
+<br>
 
 <div align="inline">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
@@ -62,10 +63,10 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
 </div>
 
-<br>
+&nbsp;
 
 ## Experience with
-</br>
+<br>
 
 <div>
 <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white">
@@ -100,4 +101,3 @@
 &nbsp;
 
 <img width=1000 src="https://github.com/miaurbanno/miaurbanno/assets/67329795/1fe3c847-7901-4b2e-a326-ca648325c25c">
-
