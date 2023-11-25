@@ -1,4 +1,6 @@
-<img width=1000 src="https://github.com/miaurbanno/miaurbanno/assets/67329795/61983a70-9f03-4fd1-9a92-8ec03619dcd7">
+<img src="images/welcome.png">
+
+<img align="right" height=100 src="images/mokona-tsubasa-chronicle.gif">
 
 <br><br>
 
@@ -6,7 +8,7 @@
 
 <br><br>
 
-<img align="right" width=350 height=350 src="images/image3.jpeg">
+<img align="right" width=400 height=400 src="images/image3.jpeg">
 
 <div align="left">
 
@@ -24,25 +26,24 @@
 
 </div>
 
-<br><br>
+<br><br><br><br>
 
-&nbsp;
+&nbsp; 
 
 #
 
-
-
-<br><br>
+&nbsp;
 
 <div align="center">
+<img width=650 src="images/deku2.gif">
+
+<br>
+
 <a href="https://github.com/miaurbanno"> 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=miaurbanno&show_icons=true&count_private=true&theme=neon"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miaurbanno&count_private=true&layout=compact&langs_count=7&theme=neon"/>
 </a>
 </div>
-
-
-<br><br>
 
 &nbsp;
 
@@ -80,11 +81,15 @@
 <img src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white">
 </div>
 
-<br></br>
+&nbsp;
 
----
+## Connect with me!
 
-<br></br>
+<br>
+
+Now that you know me a little bit, please feel free to connect with me anytime via:
+
+<br>
 
 <div align=center>
     <a href="https://twitter.com/miaurbanno"> 
@@ -93,11 +98,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF00">
     <a href="mailto:miaurbanno@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=00FF00">
-    
-##### Thanks for the visit, see ya :)
-
 </div>
 
-&nbsp;
+<img height=160 src="images/mokona-tsubasa-chronicle2.gif">
 
-<img width=1000 src="https://github.com/miaurbanno/miaurbanno/assets/67329795/1fe3c847-7901-4b2e-a326-ca648325c25c">
+<img src="images/bye.png">
