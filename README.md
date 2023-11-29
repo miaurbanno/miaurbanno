@@ -1,5 +1,11 @@
 <img src="images/welcome.png">
 
+<div>
+    <a href="https://github.com/miaurbanno/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=miaurbanno&color=ff69b4&style=plastic"/>
+    </a>
+</div>
+
 <img align="right" height=100 src="images/mokona-tsubasa-chronicle.gif">
 
 <br><br>
@@ -26,7 +32,7 @@
 
 </div>
 
-<br><br><br><br>
+<br><br>
 
 &nbsp; 
 
