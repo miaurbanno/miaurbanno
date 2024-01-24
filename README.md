@@ -1,8 +1,6 @@
-<img src="images/welcome.png">
-
 <div>
     <a href="https://github.com/miaurbanno/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=miaurbanno&color=ff69b4&style=plastic"/>
+        <img align="right" src="https://komarev.com/ghpvc/?username=miaurbanno&color=ff69b4&style=plastic"/>
     </a>
 </div>
 
@@ -41,8 +39,6 @@
 &nbsp;
 
 <div align="center">
-<img width=650 src="images/deku2.gif">
-
 <br>
 
 <a href="https://github.com/miaurbanno"> 
@@ -107,5 +103,3 @@ Now that you know me a little bit, please feel free to connect with me anytime v
 </div>
 
 <img height=160 src="images/mokona-tsubasa-chronicle2.gif">
-
-<img src="images/bye.png">
