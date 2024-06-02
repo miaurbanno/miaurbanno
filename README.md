@@ -12,8 +12,6 @@
 
 <br><br>
 
-<img align="right" width=400 height=400 src="images/image3.jpeg">
-
 <div align="left">
 
 <h3>🦊 About me:</h3>
@@ -21,22 +19,9 @@
 - Brazilian, 19 years old, BackEnd developer.
 - I graduated in Games Programming Technician at ETEC - Aristóteles Ferreira, alongside my high school.
 - she/her
-
-<h3>⚡ Fun fact:</h3>
-
-- Yess, I'm a potterhead! Haha joking, I'm really a bookworm, love music and love to eat as well.
-- One of my favourite songs is "Carry On My Wayward Son" by Kansas (I'm also a Supernatural addicted, how did you guess?).
-- I have a cat, it's name is Sofia🐈
+- My programming companion is my cat, Sofia🐈
 
 </div>
-
-<br><br>
-
-&nbsp; 
-
-#
-
-&nbsp;
 
 <div align="center">
 <br>
@@ -95,11 +80,11 @@ Now that you know me a little bit, please feel free to connect with me anytime v
 
 <div align=center>
     <a href="https://twitter.com/miaurbanno"> 
-    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=00FF00">
+    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge">
     <a href="https://www.linkedin.com/in/mia-urbano-de-ara%C3%BAjo-77073a251/">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF00">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge">
     <a href="mailto:miaurbanno@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=00FF00">
+    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge">
 </div>
 
 <img height=160 src="images/mokona-tsubasa-chronicle2.gif">
