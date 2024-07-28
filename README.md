@@ -18,7 +18,7 @@
 
 - Brazilian, 19 years old, BackEnd developer.
 - I graduated in Games Programming Technician at ETEC - Aristóteles Ferreira, alongside my high school.
-- Undergraduate in System Analysis and Development
+- Undergraduate in Systems Analysis and Development
 - she/her
 - My programming companion is my cat, Sofia🐈
 
