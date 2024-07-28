@@ -50,6 +50,8 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">
 <img src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
+<img src="https://img.shields.io/badge/Salesforce-FF6C73.svg?style=for-the-badge&logo=Salesforce&logoColor=white">
+
 </div>
 
 &nbsp;
