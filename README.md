@@ -86,7 +86,7 @@ Now that you know me a little bit, please feel free to connect with me anytime v
     <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge">
     <a href="https://www.linkedin.com/in/mia-urbano-de-ara%C3%BAjo-77073a251/">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge">
-    <a href="mailto:miaurbanno@gmail.com">
+    <a href="mailto:miaurbanno.a@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge">
 </div>
 
