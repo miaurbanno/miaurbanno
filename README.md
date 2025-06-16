@@ -16,7 +16,7 @@
 
 <h3>🦊 About me:</h3>
 
-- Brazilian, 19 years old, BackEnd developer.
+- Brazilian, 21 years old, BackEnd developer.
 - I graduated in Games Programming Technician at ETEC - Aristóteles Ferreira, alongside my high school.
 - Undergraduate in Systems Analysis and Development
 - she/her
@@ -84,10 +84,10 @@ Now that you know me a little bit, please feel free to connect with me anytime v
 <div align=center>
     <a href="https://twitter.com/miaurbanno"> 
     <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge">
-    <a href="https://www.linkedin.com/in/mia-urbano-de-ara%C3%BAjo-77073a251/">
+    <a href="https://www.linkedin.com/in/miaurbanno">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge">
     <a href="mailto:miaurbanno.a@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Outlook-000?style=for-the-badge">
 </div>
 
 <img height=160 src="images/mokona-tsubasa-chronicle2.gif">
